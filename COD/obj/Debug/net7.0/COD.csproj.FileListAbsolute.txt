@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\bin\Debug\net7.0\COD.exe
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\bin\Debug\net7.0\COD.deps.json
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\bin\Debug\net7.0\COD.runtimeconfig.json
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\bin\Debug\net7.0\COD.dll
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\bin\Debug\net7.0\COD.pdb
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.dll
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\refint\COD.dll
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.pdb
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\COD.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\DZ_ITOG\COD\obj\Debug\net7.0\ref\COD.dll
